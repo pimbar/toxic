@@ -1,1 +1,1 @@
-# toxic
+Identificar y clasificar comentarios tóxicos. 
